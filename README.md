@@ -1,11 +1,11 @@
 # Team-Marin
 Software Engineering Project
 
-* B Charan Sai   		: AM.EN.U4CSE19314 (Scrum Master)
-* S Satya Harthik 	: AM.EN.U4CSE19352
-* G Srija 	: AM.EN.U4CSE19365
-* K Nitin Kumar	: AM.EN.U4CSE19329
-* Nandita Menon : AM.EN.U4CSE19337
+* B Charan Sai   	
+* S Satya Harthik 
+* G Srija 	
+* K Nitin Kumar	
+* Nandita Menon 
 
 ## Instrcutor Aid System
 
